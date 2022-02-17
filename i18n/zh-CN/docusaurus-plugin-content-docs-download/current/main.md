@@ -3,6 +3,13 @@ title: 下载 InLong
 sidebar_position: 1
 ---
 
+使用以下链接，下载InLong，最新版本为1.0.0.
+
+## 1.0.0 release
+- 发布时间: 2022-2-17
+- [发版说明](release-1.0.0.md)
+- 源码: [inlong-1.0.0-incubating-src.tar.gz](http://www.apache.org/dyn/closer.lua/incubator/inlong/1.0.0-incubating/apache-inlong-1.0.0-incubating-src.tar.gz)          [[ASC](https://downloads.apache.org/incubator/inlong/1.0.0-incubating/apache-inlong-1.0.0-incubating-src.tar.gz.asc)]        [[SHA512](https://downloads.apache.org/incubator/inlong/1.0.0-incubating/apache-inlong-1.0.0-incubating-src.tar.gz.sha512)]
+
 使用以下链接，下载InLong，最新版本为0.12.0. 
 
 ## 0.12.0 release
